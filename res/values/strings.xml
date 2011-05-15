@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CountDown!</string>
+    <string name="app_name">Count Down</string>
+    <string name="units">more days untill the end of school!!!!</string>
+    <string name="empty">0</string>
+    <string name="prefs">Preferences</string>
+    <string name="date">Date: </string>
+    <string name="back">Go Back</string>
+</resources>
